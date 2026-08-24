@@ -1,0 +1,9 @@
+[submodule "config-server"]
+	path = config-server
+	url = https://github.com/chaminduchirantha/lms-platform-config-server.git
+[submodule "api-gateway"]
+	path = api-gateway
+	url = https://github.com/chaminduchirantha/lms-platform-api-gateway.git
+[submodule "service-registry"]
+	path = service-registry
+	url = https://github.com/chaminduchirantha/lms-platform-service-registry.git
